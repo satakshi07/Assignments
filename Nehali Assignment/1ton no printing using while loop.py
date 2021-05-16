@@ -1,4 +1,4 @@
-a=int(input("enter num. count"))
+a=int(input("enter number count"))
 i=1
 while i<=a:
     print(i, end=" ")
