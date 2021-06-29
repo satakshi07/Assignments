@@ -1,0 +1,19 @@
+1. What is difference between for loop and while loop in python?
+
+
+-Initialization, conditional checking, and increment or decrement is done while iteration in “for” loop executed.
+ while on the other hand, only initialization and condition checking in the syntax can be done.
+
+
+-For loop is used when we are aware of the number iterations at the time of execution.
+on the other hand, in “while” loop, we can execute it even if we are not aware of the number of iterations.
+
+-If you forgot to put the conditional statement in for loop, it will reiterate the loop infinite times 
+but if you forgot to put the conditional statement in while loop, it will show an error to you.
+
+
+-The syntax in the for loop will be executed only when the initialization statement is on the top of the syntax but in case of while loop, 
+it doesn’t matter whether initialization statement finds anywhere in the syntax.
+
+-The iteration will be executed on if the body of the loop executes. on the contrary,
+ the iteration statement in while loop can be written anywhere in the syntax.
